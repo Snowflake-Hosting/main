@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lang>
+    <sort>
+        <string>Home</string>
+        <string>Features</string>
+        <string>FAQs</string>
+        <string>Language</string>
+        <string>Login</string>
+        <string>Sign-up</string>
+        <string>Get your website online for free.</string>
+        <string>Snowflake Hosting provides free web hosting to everyone! We offer a variety of features, such as unlimited bandwidth and storage, and it's for free!</string>
+    </sort>
+    <sort>
+        <string>CRON jobs</string>
+        <string>CRON is used for scheduling tasks to be executed sometime in the future. This is normally used to schedule a job that is executed periodically – for example, to send out a notice every morning.</string>
+        <string>FTP</string>
+        <string>FTP makes it possible and easy to transfer multiple files simultaneously. Instead of having to send individual image files one at a time, you can send all of the files at once.</string>
+        <string>PHP support</string>
+        <string>PHP is a programming language used to script websites that are dynamic and interactive. You'll find it in various types of web applications, from e-commerce websites to CRM systems like HubSpot and Salesforce.</string>
+        <string>MySQL support</string>
+        <string>MySQL is an open source SQL relational database management system that’s developed and supported by Oracle.</string>
+        <string>No advertisement</string>   
+        <string>We respect our client websites, so, we'll never place our own advertisement on their websites, no matter what.</string>
+        <string>Softcataclous installer</string>
+        <string>Softcataclous is a powerful script instalator, which, can install any popular script such as Wordpress, Joomla, MyBB etc. It can be very helpful for beginners.</string>
+    </sort>
+    <sort>
+        <string>Why do I need a website?</string>
+        <string>Having a website makes you look professional and increases trust. Most people don’t trust a business without a good website. A clean, modern page that is regularly updated and pops up in search engines is an instant credibility boost. Potential customers will trust you more and have all the information they need in one place. In a digital age, we expect businesses to have a web presence.</string>
+        <string>Where are your servers located?</string>
+        <string>Our servers are located in Newcastle upon Tyne, United Kingdom.</string>
+        <string>What is uptime of your servers?</string>
+        <string>Our servers usually have ~99.9% uptime.</string>
+    </sort>
+    <sort>
+        <string>Ready for action?</string>
+        <string>Register now and get free hosting, for forever and without credit card.</string>
+    </sort>
+    <sort>
+        <string>Check ot our partners, IFastNet</string>
+        <string>Social Network</string>
+        <string>Pages</string>
+        <string>Register</string>
+        <string>Status</string>
+        <string>Legal</string>
+        <string>ToS &amp; Privacy Policy</string>
+    </sort>
+</lang>

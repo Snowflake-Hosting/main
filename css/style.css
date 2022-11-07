@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+h1, h3, h2, li, .text-muted, strong {
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 400 !important;
+}
+
+* {
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 300;
+}
+
+::-moz-selection { /* Code for Firefox */
+    color: white;
+    background: #7cb9e8;
+}
+  
+::selection {
+    color: white;
+    background: #7cb9e8;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+#home {
+    height: 72.5vh !important;
+    margin-top: 115px !important;
+}
+
+.icon-bg {
+    background-color: #7cb9e8 !important;
+    color: white !important;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #7cb9e8 !important;
+    border-color: #7cb9e8 !important;
+}
+
+.btn-outline-primary,
+.btn-outline-primary:hover,
+.btn-outline-primary:active,
+.btn-outline-primary:visited,
+.btn-outline-primary:focus {
+    border-color: #7cb9e8 !important;
+    color: #7cb9e8 !important;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:active,
+.btn-outline-primary:visited,
+.btn-outline-primary:focus {
+    background-color: #7cb9e8 !important;
+    border-color: #7cb9e8 !important;
+    color: white !important;
+}
+
+.dark-accordeon {
+    background-color: #212529 !important;
+}
+
+.dark-mode {
+    color: #6c757d !important;
+}
+
