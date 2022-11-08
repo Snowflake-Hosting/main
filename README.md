@@ -26,6 +26,3 @@ You can see this website in production at [Snowflake! Hosting](https://snow-web.
 | ----------------- | ------------------------------------------------------------------ |
 | Aero | ![#7cb9e8](https://via.placeholder.com/10/7cb9e8?text=+) #7cb9e8 |
 | Example Color | ![#f8f8f8](https://via.placeholder.com/10/187E9F?text=+) #187E9F |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
